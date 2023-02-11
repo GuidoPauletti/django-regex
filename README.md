@@ -26,7 +26,11 @@
 ![cover_automate2_thumb](https://user-images.githubusercontent.com/93409495/218272220-d9da6296-4100-4808-a94c-3130fea4b4af.jpg)
 
 ## :monkey: Preview
-<h4 align="center"> Home Page </h4>
+<h4> Home Page </h4>
+
+![Home Page Image](https://github.com/GuidoPauletti/django-regex/blob/main/readme/Home.png)
+
+<h4> Copy the entire page on your clipboard </h4>
 
 
 
