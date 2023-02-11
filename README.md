@@ -32,5 +32,9 @@
 
 <h4> Copy the entire page on your clipboard </h4>
 
+![Web page Image](https://github.com/GuidoPauletti/django-regex/blob/main/readme/WebPage.png)
+
+<h4> Get the result </h4>
+
 
 
