@@ -26,15 +26,17 @@
 ![cover_automate2_thumb](https://user-images.githubusercontent.com/93409495/218272220-d9da6296-4100-4808-a94c-3130fea4b4af.jpg)
 
 ## :monkey: Preview
-<h4> Home Page </h4>
+<h4> :one: Home Page </h4>
 
 ![Home Page Image](https://github.com/GuidoPauletti/django-regex/blob/main/readme/Home.png)
 
-<h4> Copy the entire page on your clipboard </h4>
+<h4> :two: Copy the entire page on your clipboard </h4>
 
 ![Web page Image](https://github.com/GuidoPauletti/django-regex/blob/main/readme/WebPage.png)
 
-<h4> Get the result </h4>
+<h4> :three: Get the result </h4>
+
+![Result Page Image](https://github.com/GuidoPauletti/django-regex/blob/main/readme/matchingObject.png)
 
 
 
