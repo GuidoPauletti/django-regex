@@ -9,7 +9,7 @@
  - `step 4` : at this point, the program should be running in the localhost, and now you can follow the steps displayed on the home page
  
  ## :no_mobile_phones: Warning
- This web app is built to obtain argentinian phone numbers, so it may not work for phone numbers if you are in another country
+ This web app is built to obtain argentinian phone numbers, so it may not work if you are in another country
  
  ## :white_check_mark: Technologies used in this project
  * Django
@@ -19,7 +19,7 @@
  * HTML
  
  ## :book: Credits to:
-- `Al Sweigart's` book called "Automate the boring stuff with python" https://automatetheboringstuff.com/
+- `Al Sweigart's` book "Automate the boring stuff with python" https://automatetheboringstuff.com/
 - `I used this book` to learn about regular expressions and it helped me with the python code
 
 
